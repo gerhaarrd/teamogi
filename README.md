@@ -43,7 +43,7 @@
 <h3>Prerequisites</h3>
 <p>This project requires the following dependencies:</p>
 <ul class="list-disc pl-4 my-0">
-<li class="my-0"><strong>Programming Language:</strong> HTML</li>
+<li class="my-0"><strong>Programming Language:</strong> HTML, CSS, JS</li>
 </ul>
 <hr>
 <div align="left" class=""><a href="#top">⬆ Return</a></div>
