@@ -45,30 +45,6 @@
 <ul class="list-disc pl-4 my-0">
 <li class="my-0"><strong>Programming Language:</strong> HTML</li>
 </ul>
-<h3>Installation</h3>
-<p>Build teamogi from the source and intsall dependencies:</p>
-<ol>
-<li class="my-0">
-<p><strong>Clone the repository:</strong></p>
-<pre><code class="language-sh">❯ git clone https://github.com/gerhaarrd/teamogi
-</code></pre>
-</li>
-<li class="my-0">
-<p><strong>Navigate to the project directory:</strong></p>
-<pre><code class="language-sh">❯ cd teamogi
-</code></pre>
-</li>
-<li class="my-0">
-<p><strong>Install the dependencies:</strong></p>
-</li>
-</ol>
-<p>echo 'INSERT-INSTALL-COMMAND-HERE'</p>
-<h3>Usage</h3>
-<p>Run the project with:</p>
-<p>echo 'INSERT-RUN-COMMAND-HERE'</p>
-<h3>Testing</h3>
-<p>Teamogi uses the {<strong>test_framework</strong>} test framework. Run the test suite with:</p>
-<p>echo 'INSERT-TEST-COMMAND-HERE'</p>
 <hr>
 <div align="left" class=""><a href="#top">⬆ Return</a></div>
 <hr></div>
